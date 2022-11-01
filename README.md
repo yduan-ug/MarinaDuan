@@ -4,7 +4,12 @@
 - 🎯 I am actively seeking for 2023 new graduate/associate/junior software developer programme.
 - 💞️ My Research Project is Urban Traffic Simulation Using Reinforcement Learning. If you work in the similar topic/area, supper willing to discuss with you!
 - 📫 Email Address: y.duan1@nuigalway.ie
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=MarinaDuan&&show_icons=true&theme=radical"/>
+  </a>
 
+</p>
 <!---
 MarinaDuan/MarinaDuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
