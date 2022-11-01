@@ -32,6 +32,9 @@ public class SoftwareDeveloper {
 ```
 <p align="right" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=MarinaDuan&&show_icons=true&theme=radical&count_private=true"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MarinaDuan&&show_icons=true&theme=radical&count_private=true"/>
   </a>
 </p>
+<a href="https://github.com/MarinaDuan/bibliography-management-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDuan&theme=radical" />
+</a>
