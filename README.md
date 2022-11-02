@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yingchun Duan, currently based in Galway, Ireland and super looking forward to relocate in European Continent.
+- 👋 Hi, I’m Yingchun Duan, currently based in Galway, Ireland and super looking forward to relocating in European Continent.
 - 👀 I’m enthusiatic in Java backend with Devops and React JavaScript frontend.
 - 🌱 I’m currently taking my two-year full-time master in Software Design & Devlopment learning and will graduate in 2023
 - 🎯 I am actively seeking for 2023 new graduate/associate/junior software developer programme.
