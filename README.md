@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yingchun Duan, currently based in Galway, Ireland and super looking forward to relocating in the European Continent.
-- 👀 I’m enthusiatic of Java backend with Devops and React JavaScript frontend.
+- 👀 I’m enthusiatic of Java backend with Devops, React JavaScript frontend, and Deep Reinforcement Learning.
 - 🌱 I’m currently taking my two-year full-time master in Software Design & Devlopment learning and will graduate in 2023
-- 🎯 I am actively seeking for 2023 new graduate/associate/junior software developer programme.
+- 🎯 I want to qualify myself as a competent junior software developer.
 - 💞️ My Research Project is Urban Traffic Simulation Using Reinforcement Learning. If you work in the similar topic/area, supper willing to discuss with you!
 - 📫 Email Address: y.duan1@nuigalway.ie
 ```
