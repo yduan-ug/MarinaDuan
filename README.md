@@ -3,7 +3,7 @@
 - 🌱 I’m currently taking my two-year full-time master in Software Design & Devlopment learning and will graduate in 2023
 - 🎯 I want to qualify myself as a competent junior software developer.
 - 💞️ My Research Project is Urban Traffic Simulation Using Reinforcement Learning. If you work in the similar topic/area, supper willing to discuss with you!
-- 📫 Email Address: y.duan1@nuigalway.ie
+- 📫 Email Address: yingchunduannuig@gmail.com
 ```
 public class SoftwareDeveloper {
     private static String interestedPosition = "Back-end/Full-Stack Software Developer";
