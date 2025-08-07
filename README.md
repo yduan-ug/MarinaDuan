@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Yingchun Duan, currently based in Ireland and super looking forward to relocating in the European Continent.
-- 👀 I’m enthusiatic of Java backend with Devops, React JavaScript frontend, and Deep Reinforcement Learning.
-- 🌱 I’m about to finish my two-year full-time master in Software Design & Devlopment learning.
-- 🎯 I want to qualify myself as a competent junior software developer.
-- 💞️ My Research Project is Urban Traffic Simulation Using Reinforcement Learning. If you work in the similar topic/area, I am supper willing to discuss with you!
-- 📫 Email Address: yingchunduannuig@gmail.com
+- 👋 Hi, I’m Yingchun Duan, a junior software developercurrently based in Ireland.
+- 👀 I’m enthusiatic of Python Java backend with Devops, React JavaScript frontend, and AI/ML.
 ```
 public class SoftwareDeveloper {
     private static String interestedPosition = "Back-end/Full-Stack Software Developer";
