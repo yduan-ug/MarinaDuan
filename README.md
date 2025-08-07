@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Yingchun Duan, a junior software developer currently based in Ireland.
+- 👋 Hi, I’m a junior software developer currently based in Ireland.
 - 👀 I’m enthusiatic of Python Java backend with Devops, React JavaScript frontend, and AI/ML.
 ```
 public class SoftwareDeveloper {
-    private static String interestedPosition = "Back-end/Full-Stack Software Developer";
+    private static String interestedPosition = "Devops/AI/Mlops/Full-Stack Software Developer";
     String name, currentLocation, highestEducation, email;
 
     public SoftwareDeveloper(String name, String currentLocation, String highestEducation,
