@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yingchun Duan, a junior software developercurrently based in Ireland.
+- 👋 Hi, I’m Yingchun Duan, a junior software developer currently based in Ireland.
 - 👀 I’m enthusiatic of Python Java backend with Devops, React JavaScript frontend, and AI/ML.
 ```
 public class SoftwareDeveloper {
@@ -9,7 +9,7 @@ public class SoftwareDeveloper {
                              String email) {
         this.name = "Yingchun Duan";
         this.currentLocation = "Clare, Ireland";
-        this.highestEducation = "MSc Software Design & Development"+ "@ University of Galway(Our uni changed name)";
+        this.highestEducation = "MSc Software Design & Development"+ "@ University of Galway";
         this.email = "yingchunduannuig@gmail.com";
     }
     public static String hireMe(){
